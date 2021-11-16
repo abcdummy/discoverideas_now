@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Idea Information" section_id="2f7054842fb330104a0054492799b627" sys_domain="global" table="x_708486_discove_0_ideas" version="3" view="Custom_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:32</sys_created_on>
+            <sys_id>a42a1c4c2fb330104a0054492799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Idea Information" display_value="Idea Information" name="x_708486_discove_0_ideas" sys_domain="global" view="a37054842fb330104a0054492799b623">2f7054842fb330104a0054492799b627</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>summary</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:32</sys_created_on>
+            <sys_id>282a1c4c2fb330104a0054492799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Idea Information" display_value="Idea Information" name="x_708486_discove_0_ideas" sys_domain="global" view="a37054842fb330104a0054492799b623">2f7054842fb330104a0054492799b627</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:32</sys_created_on>
+            <sys_id>a82a1c4c2fb330104a0054492799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Idea Information" display_value="Idea Information" name="x_708486_discove_0_ideas" sys_domain="global" view="a37054842fb330104a0054492799b623">2f7054842fb330104a0054492799b627</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_implemented</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:32</sys_created_on>
+            <sys_id>2c2a1c4c2fb330104a0054492799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Idea Information" display_value="Idea Information" name="x_708486_discove_0_ideas" sys_domain="global" view="a37054842fb330104a0054492799b623">2f7054842fb330104a0054492799b627</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:32</sys_created_on>
+            <sys_id>ac2a1c4c2fb330104a0054492799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Idea Information" display_value="Idea Information" name="x_708486_discove_0_ideas" sys_domain="global" view="a37054842fb330104a0054492799b623">2f7054842fb330104a0054492799b627</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Idea Information</caption>
+            <header>false</header>
+            <name>x_708486_discove_0_ideas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 10:39:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f7054842fb330104a0054492799b627</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_708486_discove_0_ideas</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DiscoverIdeas" source="x_708486_discove_0">2753346c2f2330104a0054492799b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DiscoverIdeas">2753346c2f2330104a0054492799b62b</sys_scope>
+            <sys_update_name>sys_ui_section_2f7054842fb330104a0054492799b627</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 10:41:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom View" name="Custom_View">a37054842fb330104a0054492799b623</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

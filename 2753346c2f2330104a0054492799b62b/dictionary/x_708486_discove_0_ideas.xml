@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ideas" max_length="40" name="x_708486_discove_0_ideas" sizeclass="4" type="collection">
+        <element label="Description" mandatory="true" max_length="5000" name="description" type="string_full_utf8"/>
+        <element label="Idea implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element choice="1" display="true" label="Idea Type" mandatory="true" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cost Savings" sequence="10" value="cost_savings"/>
+                <element inactive_on_update="false" label="Team Building" sequence="20" value="team_building"/>
+                <element inactive_on_update="false" label="Process Improvement" sequence="30" value="process_improvement"/>
+                <element inactive_on_update="false" label="Reusable component" sequence="40" value="reusable_component"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Summary" mandatory="true" max_length="1000" name="summary" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

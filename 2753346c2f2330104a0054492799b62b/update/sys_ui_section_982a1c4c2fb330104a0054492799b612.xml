@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Idea Description" section_id="982a1c4c2fb330104a0054492799b612" sys_domain="global" table="x_708486_discove_0_ideas" version="3" view="Custom_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:32</sys_created_on>
+            <sys_id>202a1c4c2fb330104a0054492799b632</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Idea Description" display_value="Idea Description" name="x_708486_discove_0_ideas" sys_domain="global" view="a37054842fb330104a0054492799b623">982a1c4c2fb330104a0054492799b612</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Idea Description</caption>
+            <header>false</header>
+            <name>x_708486_discove_0_ideas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-08 11:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>982a1c4c2fb330104a0054492799b612</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_708486_discove_0_ideas</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DiscoverIdeas" source="x_708486_discove_0">2753346c2f2330104a0054492799b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DiscoverIdeas">2753346c2f2330104a0054492799b62b</sys_scope>
+            <sys_update_name>sys_ui_section_982a1c4c2fb330104a0054492799b612</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-08 11:21:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom View" name="Custom_View">a37054842fb330104a0054492799b623</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
