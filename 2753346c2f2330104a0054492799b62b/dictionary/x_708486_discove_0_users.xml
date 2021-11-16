@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_708486_discove_0_users" type="collection">
+        <element display="true" label="IsActive" max_length="40" name="isactive" type="boolean"/>
+        <element label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+    </element>
+</database>
