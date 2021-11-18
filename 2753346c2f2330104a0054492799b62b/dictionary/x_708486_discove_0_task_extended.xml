@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Task Extended" max_length="40" name="x_708486_discove_0_task_extended" sizeclass="1" type="collection">
+        <element display="true" label="Extended Description" max_length="1000" name="extended_description" type="string"/>
+        <element label="Extend Task Details" mandatory="true" max_length="100" name="extend_task_details" type="string"/>
+        <element label="Task Note" max_length="40" name="task_note" type="file_attachment"/>
+    </element>
+</database>

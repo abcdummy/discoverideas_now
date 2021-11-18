@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="32d733cb2fb330104a0054492799b63c" sys_domain="global" table="x_708486_discove_0_users" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-18 11:12:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6d733cb2fb330104a0054492799b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_708486_discove_0_users" name="x_708486_discove_0_users" sys_domain="global" view="Default view">32d733cb2fb330104a0054492799b63c</sys_ui_form>
+            <sys_ui_section caption="User Information" display_value="User Information" name="x_708486_discove_0_users" sys_domain="global" view="Default view">c9f53bc32fb330104a0054492799b6dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-18 11:12:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-18 11:12:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2d733cb2fb330104a0054492799b671</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_708486_discove_0_users" name="x_708486_discove_0_users" sys_domain="global" view="Default view">32d733cb2fb330104a0054492799b63c</sys_ui_form>
+            <sys_ui_section caption="Speciality" display_value="Speciality" name="x_708486_discove_0_users" sys_domain="global" view="Default view">f2d733cb2fb330104a0054492799b63b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-18 11:12:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_708486_discove_0_users</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-18 11:12:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32d733cb2fb330104a0054492799b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_708486_discove_0_users</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DiscoverIdeas" source="x_708486_discove_0">2753346c2f2330104a0054492799b62b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DiscoverIdeas">2753346c2f2330104a0054492799b62b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_32d733cb2fb330104a0054492799b63c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-18 11:12:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
